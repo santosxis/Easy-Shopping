@@ -1,7 +1,6 @@
 # Projeto Easy Shopping - DevClub
 
 Este é um projeto interativo, desenvolvido com **HTML** e **CSS**  
-A proposta é apresentar um Visual atraente nas imagens.
 
 ## 🔥 Visual do Projeto
 
